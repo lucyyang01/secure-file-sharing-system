@@ -12,9 +12,8 @@ Rigorous security testing was conducted on this implementation to ensure protect
 
 A detailed write up of the various cryptographic algorithms and data structures I used can be found in the design document. The diagram below illustrates the various data structures used and how they interact with each other.
 
-TODO: INSERT DIAGRAM      
+![diagram](https://file%252B.vscode-resource.vscode-cdn.net/var/folders/vk/5mkc503x5h91xh12mzlc4xj40000gn/T/TemporaryItems/NSIRD_screencaptureui_OPSKF9/Screenshot%25202023-08-04%2520at%25201.42.41%2520PM.png?version%253D1691181796524)
 
-## Instructions for Use
 
 ## Collaborators
 
